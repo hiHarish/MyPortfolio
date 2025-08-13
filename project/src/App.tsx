@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Github, Linkedin, Mail, ChevronDown, Menu, X } from 'lucide-react';
 import Contact from './Contact';
-import img from './assets/myimg.jpg';
+import img from '../myimg.jpg';
 function App() {
   const [activeSection, setActiveSection] = useState('hero');
   const [isScrolled, setIsScrolled] = useState(false);
