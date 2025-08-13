@@ -162,7 +162,7 @@ function App() {
       {/* Bigger Profile Image with gradient border */}
       <div className="relative w-[20rem] h-[20rem] md:w-[24rem] md:h-[24rem] rounded-full p-[4px] bg-gradient-to-tr from-fuchsia-500 via-purple-500 to-cyan-500 animate-gradient">
         <img
-          src={img}
+          src='https://github.com/hiHarish/MyPortfolio/blob/main/project/myimg.jpg?raw=true'
           alt="Harish Kumar Peddi"
           className="rounded-full object-cover w-full h-full shadow-2xl"
         />
