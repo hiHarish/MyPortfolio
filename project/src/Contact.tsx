@@ -36,9 +36,13 @@ const Contact = () => {
             <Instagram className="w-6 h-6 text-pink-500" /> Instagram Profile
           </a>
         </div>
+        <br></br>
+        
+          
+        
 
         {/* Contact Form */}
-      </div>
+      </div> <div><p className="text-center text-gray-400">Designed by Harish Peddi</p></div>
     </section>
   );
 };
